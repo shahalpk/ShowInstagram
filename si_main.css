@@ -1,0 +1,7 @@
+.expanding-stream-item .instagram-media-container{
+	display:none;
+}
+.expanding-stream-item.open .instagram-media-container{
+	display:block;
+}
+

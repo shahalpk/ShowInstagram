@@ -1,0 +1,13 @@
+{
+	"name":"Show Instagram Pictures in Twitter",
+	"version":"1.0",
+	"manifest_version":2,
+	"description":"This plugin will show Instagram pictures in Twitter timeline. If you haven't noticed, twitter has stopped loading Instagram pictures in the timeline",
+	"content_scripts":[
+		{
+			"matches":["*://twitter.com/*"],
+			"js":["jquery.js","si_main.js"],
+			"css":["si_main.css"]
+		}
+	]
+}
