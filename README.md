@@ -1,0 +1,2 @@
+# Show Instagram Pics in Twitter (Chrome Extension)
+Twitter has recently pulled out the ‘Show picture’ feature for Instagram links. If you would like to further dig up the topic go [here](http://status.twitter.com/post/37258637900/instagram-photo-rendering-issue). I’m not quite comfortable with the decision, mostly because i hate opening another tab just to view a picture. So i’ve decided to do it myself by building a chrome plugin. It turned out be pretty easy and straightforward (thanks to Chrome).
